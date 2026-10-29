@@ -14,13 +14,13 @@ The project simplifies financial decision-making by offering intuitive and smart
 
 ## 👥 Contributors
 
-- **Sarthak Gupta** — Frontend Developer  
+- **SARTHAK GUPTA** — Frontend Developer  
   - Built the React-based frontend  
   - Implemented UI/UX and handled React Router for navigation  
   - Designed and structured the entire frontend application  
   - Integrated API endpoints with user interface components
 
-- **Akash pandey** — Backend Developer  
+- **AKASH PANDEY** — Backend Developer  
   - Set up the Express.js backend
   - Managed MongoDB integration and API endpoints
   - Deployed the backend on Render
