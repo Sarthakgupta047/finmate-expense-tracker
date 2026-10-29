@@ -8,19 +8,19 @@ The project simplifies financial decision-making by offering intuitive and smart
 ## 🚀 Deployed Link
 
 🔗 [Live Demo](https://fin-mate-smart-student-expense-tracker.vercel.app/login)  
-📽️ [Demo Video](https://www.youtube.com/watch?v=gmId23QqACM)
+
 
 ---
 
 ## 👥 Contributors
 
-- **Akash Pandey** — Frontend Developer  
+- **Sarthak Gupta** — Frontend Developer  
   - Built the React-based frontend  
   - Implemented UI/UX and handled React Router for navigation  
   - Designed and structured the entire frontend application  
   - Integrated API endpoints with user interface components
 
-- **Arpit Makkar** — Backend Developer  
+- **Akash pandey** — Backend Developer  
   - Set up the Express.js backend
   - Managed MongoDB integration and API endpoints
   - Deployed the backend on Render
